@@ -1,0 +1,61 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    </meta>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=1">
+    </meta>
+    <link rel="stylesheet" href="style.css">
+    </link>
+</head>
+
+<body>
+    <div id="page-xuanze">
+        <h1>百释斩网页版</h1>
+        <span>（当前为测试版，暂不支持收藏、斩词，古诗课文注释暂未上线）</span>
+        <h2>词书：</h2>
+        <select id="book-select">
+        </select>
+        <h2>开始课文：</h2>
+        <select id="lesson-start-select">
+        </select>
+        <h2>结束课文：</h2>
+        <select id="lesson-end-select">
+        </select>
+        <br>
+        <button id="start">开始练习</button>
+    </div>
+    <div id="page-lianxi" style="display: none;">
+        <div id="bookpage-v">
+            <div id="bookpage" style="position: relative;"></div>
+        </div>
+        <div id="czview">
+            <div id="text-lesson">#课名</div>
+            <div id="text-unit">#单元</div>
+            <div id="wordviews"></div>
+            <div id="btn-v">
+                <div id="star" class="star">
+                    <svg viewBox="0 0 16 16" stroke-width="1.5">
+                        <g>
+                            <path
+                                d="M7.7347 1.50924C7.84038 1.28338 8.16159 1.28338 8.26728 1.50924L10.1814 5.59993L14.7105 6.12927C14.9609 6.15853 15.0607 6.46872 14.8744 6.63855L11.529 9.68822L12.4181 14.0993C12.4676 14.3448 12.2072 14.5358 11.9879 14.4148L8.00099 12.2149L4.01407 14.4148C3.79482 14.5358 3.53435 14.3448 3.58383 14.0993L4.47299 9.68822L1.12755 6.63855C0.94124 6.46872 1.04109 6.15853 1.29148 6.12927L5.82056 5.59993L7.7347 1.50924Z"
+                                stroke-linejoin="miter" vector-effect="non-scaling-stroke"></path>
+                        </g>
+                    </svg>
+                </div>
+                <div id="zhan">斩</div>
+                <button id="showdaan">显示答案</button>
+                <button id="next-f">不认识</button>
+                <button id="next-t">认识</button>
+            </div>
+        </div>
+        <div id="topbtn-left">
+            <div id="back"></div>
+            <div id="text-yiguo">#已过</div>
+            <div id="text-daiguo">#待过</div>
+        </div>
+    </div>
+</body>
+<script src="main.js"></script>
+
+</html>
