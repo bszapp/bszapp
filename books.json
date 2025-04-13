@@ -3,54 +3,54 @@
         "name": "统编版 语文七年级上册",
         "image": "",
         "book": {
-            "fonts": "/books/yuwen-7-1/fonts.css",
-            "pages": "/books/yuwen-7-1/pages.json"
+            "fonts": "books/yuwen-7-1/fonts.css",
+            "pages": "books/yuwen-7-1/pages.json"
         },
-        "words": "/books/yuwen-7-1/words.json"
+        "words": "books/yuwen-7-1/words.json"
     },
     {
         "name": "统编版 语文七年级下册",
         "image": "",
         "book": {
-            "fonts": "/books/yuwen-7-2/fonts.css",
-            "pages": "/books/yuwen-7-2/pages.json"
+            "fonts": "books/yuwen-7-2/fonts.css",
+            "pages": "books/yuwen-7-2/pages.json"
         },
-        "words": "/books/yuwen-7-2/words.json"
+        "words": "books/yuwen-7-2/words.json"
     },
     {
         "name": "统编版 语文八年级上册",
         "image": "",
         "book": {
-            "fonts": "/books/yuwen-8-1/fonts.css",
-            "pages": "/books/yuwen-8-1/pages.json"
+            "fonts": "books/yuwen-8-1/fonts.css",
+            "pages": "books/yuwen-8-1/pages.json"
         },
-        "words": "/books/yuwen-8-1/words.json"
+        "words": "books/yuwen-8-1/words.json"
     },
     {
         "name": "统编版 语文八年级下册",
         "image": "",
         "book": {
-            "fonts": "/books/yuwen-8-2/fonts.css",
-            "pages": "/books/yuwen-8-2/pages.json"
+            "fonts": "books/yuwen-8-2/fonts.css",
+            "pages": "books/yuwen-8-2/pages.json"
         },
-        "words": "/books/yuwen-8-2/words.json"
+        "words": "books/yuwen-8-2/words.json"
     },
     {
         "name": "统编版 语文九年级上册",
         "image": "",
         "book": {
-            "fonts": "/books/yuwen-9-1/fonts.css",
-            "pages": "/books/yuwen-9-1/pages.json"
+            "fonts": "books/yuwen-9-1/fonts.css",
+            "pages": "books/yuwen-9-1/pages.json"
         },
-        "words": "/books/yuwen-9-1/words.json"
+        "words": "books/yuwen-9-1/words.json"
     },
     {
         "name": "统编版 语文九年级下册",
         "image": "",
         "book": {
-            "fonts": "/books/yuwen-9-2/fonts.css",
-            "pages": "/books/yuwen-9-2/pages.json"
+            "fonts": "books/yuwen-9-2/fonts.css",
+            "pages": "books/yuwen-9-2/pages.json"
         },
-        "words": "/books/yuwen-9-2/words.json"
+        "words": "books/yuwen-9-2/words.json"
     }
 ]
