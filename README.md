@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-装死ing...
+求github骗star秘籍...
+
+
+
 
 **bszapp/bszapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
