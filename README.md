@@ -2,6 +2,8 @@
 
 ---
 
+https://t.me/jsfmytg
+
 <p align="center">
   <b>你是第</b>
   <br>
